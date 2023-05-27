@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UTRAINS : Shell Scripting
 
 A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter.
@@ -1171,3 +1172,6 @@ It can also be combined with other options just like above.
 ## Some Sample Programs
 
 [Click here to see the sample exercises](./practise/)
+=======
+# agents-scripts
+>>>>>>> 9244f40f86e72ad524914f164c6f2bf523a8f3b0
